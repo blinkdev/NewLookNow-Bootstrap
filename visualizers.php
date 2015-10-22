@@ -53,7 +53,7 @@ require_once('_include.php');
                 <!-- logo -->
                 <div class="logo">
                     <a href="index.php">
-                        <img src="img/Edited-Portion/logo-1.png" class="l-black">
+                        <img src="img/Edited-Portion/logo-1a.svg" class="l-black">
                         <!--<img src="img/Edited Portion/logo-1.png" class="l-white">
                         <img src="img/Edited Portion/logo-1.png" class="l-color">-->
                     </a>
@@ -185,7 +185,7 @@ require_once('_include.php');
                         
                         <div class="nf-item face non-surgical brands">
                             <div class="item-box">
-                                <a href="_action.php?concern_select=440&treatment=surgical&sponsor=3&cost=0">
+                                <a href="_action.php?concern_select=440&treatment=non-surgical&sponsor=3&cost=0">
                                     <img alt="1" src="img/Edited-Portion/treatments/thin-lips.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
