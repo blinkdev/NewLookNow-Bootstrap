@@ -126,12 +126,12 @@
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-4 -->
@@ -211,12 +211,12 @@
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-8 -->
@@ -294,12 +294,12 @@
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-4 -->
@@ -379,12 +379,12 @@
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-5 -->
@@ -714,7 +714,7 @@
                 <div class="row" id="providersBlk2">
                 	<div class="col-md-4 col-sm-4 mb-25">
                     	<div class="page-icon-top">
-                        	<img src="img/Edited-Portion/icons/mobile-icon-1.png" alt="image">
+                        	<img src="img/Edited-Portion/icons/mobile-icon-1.svg" alt="image">
                         </div>
                         <h4>Tell Us About You</h4>
                         <p>Answer a few easy questions over the phone.</p>
@@ -722,7 +722,7 @@
                     
                     <div class="col-md-4 col-sm-4 mb-25">
                     	<div class="page-icon-top">
-                        	<img src="img/Edited-Portion/icons/profile-icon-1.png" alt="image">
+                        	<img src="img/Edited-Portion/icons/profile-icon-1.svg" alt="image">
                         </div>
                         <h4>Get a Referral</h4>
                         <p>Find out which physician is right for you.</p>
@@ -730,7 +730,7 @@
                     
                     <div class="col-md-4 col-sm-4 mb-25">
                     	<div class="page-icon-top">
-                        	<img src="img/Edited-Portion/icons/calendar-icon-1.png" alt="image">
+                        	<img src="img/Edited-Portion/icons/calendar-icon-1.svg" alt="image">
                         </div>
                         <h4>Make an Appointment</h4>
                         <p>Instantly schedule a visit with your new aesthetic provider.</p>
