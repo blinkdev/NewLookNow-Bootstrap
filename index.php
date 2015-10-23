@@ -656,7 +656,7 @@
                 
                 <div class="row text-center" id="GiftBlk3">
                 	<div class="col-md-12 col-sm-12 common-text-blk1">
-                    	<h1 class="mb25">Convenient locations through out Southern California</h1>
+                    	<h1 class="mb25">Convenient locations throughout Southern California</h1>
                         <p>Our aesthetic professionals are conveniently located throughout Southern California. We will book an appointment that is closest to you.</p>
                     </div><!-- / col-md-12 -->
                 </div><!-- / row -->
