@@ -1,6 +1,6 @@
 <?php
 
-require_once('_include.php');
+//require_once('_include.php');
 
 ?>
 <!DOCTYPE html>
