@@ -12,84 +12,24 @@
          url('../fonts/custom_fonts/HaloHandletter.svg#HaloHandletter') format('svg');
 }
 
-@font-face {
-    font-family:'MuseoSans100';
-    src: url('../fonts/custom_fonts/MuseoSans100.eot');
-    src: url('../fonts/custom_fonts/MuseoSans100.eot') format('embedded-opentype'),
-         url('../fonts/custom_fonts/MuseoSans100.woff2') format('woff2'),
-         url('../fonts/custom_fonts/MuseoSans100.woff') format('woff'),
-         url('../fonts/custom_fonts/MuseoSans100.ttf') format('truetype'),
-         url('../fonts/custom_fonts/MuseoSans100.svg#MuseoSans100') format('svg');
-}
-
-@font-face {
-    font-family:'MuseoSans300';
-    src: url('../fonts/custom_fonts/MuseoSans300.eot');
-    src: url('../fonts/custom_fonts/MuseoSans300.eot') format('embedded-opentype'),
-         url('../fonts/custom_fonts/MuseoSans300.woff2') format('woff2'),
-         url('../fonts/custom_fonts/MuseoSans300.woff') format('woff'),
-         url('../fonts/custom_fonts/MuseoSans300.ttf') format('truetype'),
-         url('../fonts/custom_fonts/MuseoSans300.svg#MuseoSans300') format('svg');
-}
-
-@font-face {
-    font-family:'MuseoSans_500';
-    src: url('../fonts/custom_fonts/MuseoSans_500.eot');
-    src: url('../fonts/custom_fonts/MuseoSans_500.eot') format('embedded-opentype'),
-         url('../fonts/custom_fonts/MuseoSans_500.woff2') format('woff2'),
-         url('../fonts/custom_fonts/MuseoSans_500.woff') format('woff'),
-         url('../fonts/custom_fonts/MuseoSans_500.ttf') format('truetype'),
-         url('../fonts/custom_fonts/MuseoSans_500.svg#MuseoSans_500') format('svg');
-}
-
-@font-face {
-    font-family:'MuseoSans_700';
-    src: url('../fonts/custom_fonts/MuseoSans_700.eot');
-    src: url('../fonts/custom_fonts/MuseoSans_700.eot') format('embedded-opentype'),
-         url('../fonts/custom_fonts/MuseoSans_700.woff2') format('woff2'),
-         url('../fonts/custom_fonts/MuseoSans_700.woff') format('woff'),
-         url('../fonts/custom_fonts/MuseoSans_700.ttf') format('truetype'),
-         url('../fonts/custom_fonts/MuseoSans_700.svg#MuseoSans_700') format('svg');
-}
-
-@font-face {
-    font-family:'MuseoSans_900';
-    src: url('../fonts/custom_fonts/MuseoSans_900.eot');
-    src: url('../fonts/custom_fonts/MuseoSans_900.eot') format('embedded-opentype'),
-         url('../fonts/custom_fonts/MuseoSans_900.woff2') format('woff2'),
-         url('../fonts/custom_fonts/MuseoSans_900.woff') format('woff'),
-         url('../fonts/custom_fonts/MuseoSans_900.ttf') format('truetype'),
-         url('../fonts/custom_fonts/MuseoSans_900.svg#MuseoSans_900') format('svg');
-}
-
-@font-face {
-    font-family:'MuseoSans_900';
-    src: url('../fonts/custom_fonts/MuseoSans_900.eot');
-    src: url('../fonts/custom_fonts/MuseoSans_900.eot') format('embedded-opentype'),
-         url('../fonts/custom_fonts/MuseoSans_900.woff2') format('woff2'),
-         url('../fonts/custom_fonts/MuseoSans_900.woff') format('woff'),
-         url('../fonts/custom_fonts/MuseoSans_900.ttf') format('truetype'),
-         url('../fonts/custom_fonts/MuseoSans_900.svg#MuseoSans_900') format('svg');
-}
-
 body {
-    font-family:'Museo Sans' !important;
+    font-family:'museo-sans' !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family:'Museo Sans' !important;
+    font-family:'museo-sans' !important;
 }
 
 p {
-    font-family:'Museo Sans' !important;
+    font-family:'museo-sans' !important;
 }
 
 a {
-    font-family:'Museo Sans' !important;
+    font-family:'museo-sans' !important;
 }
 
 input, button {
-    font-family:'Museo Sans' !important;
+    font-family:'museo-sans' !important;
 }
 
 /*...... start col_zero ............*/
@@ -163,7 +103,7 @@ input, button {
 }
 
 .navigation > ul > li > a {
-	font-family:'Museo Sans' !important;
+	font-family:'museo-sans' !important;
 	font-size:15px;
 	/*font-family:'MuseoSans100';*/
 	color:#333333;
@@ -179,7 +119,7 @@ input, button {
 }
 
 .header.sticky .navigation ul li a {
-	font-family:'Museo Sans' !important;
+	font-family:'museo-sans' !important;
 	font-size:14px;
 	/*font-family:'MuseoSans100';*/
 	color:#333333;
@@ -4592,6 +4532,7 @@ ul.pager-1 li {
 	padding-bottom:50px;
 }
 
+<<<<<<< HEAD
 .NHBlk1ConsultingForm1 form {
   display:block;
 }
@@ -4606,6 +4547,8 @@ ul.pager-1 li {
   clear:both;
 }
 
+=======
+>>>>>>> 52da9ec7baac52614e8c3e83f239c42bb9e5d18e
 /* ----------------------------------*/
 /* start about */
 /* ----------------------------------*/
