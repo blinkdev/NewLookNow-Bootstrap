@@ -1,7 +1,7 @@
 <?php
 
 // load drupal and local include files
-require_once('_include.php');
+// require_once('_include.php');
 
 ?>
 <!DOCTYPE html>
@@ -126,12 +126,12 @@ require_once('_include.php');
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-4 -->
@@ -151,13 +151,13 @@ require_once('_include.php');
                                         <div class="NHBlk1ConsultingForm1 NHFloting101">
                                             <form action="/bootstrap/bootstrap_form_process.php" role="form" method="POST" accept-charset="UTF-8"enctype="application/x-www-form-urlencoded" >
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFname1" name="firstname" class="form-control input-firstname" placeholder="First Name *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFLname1" name="lastname" class="form-control input-lastname" placeholder="Last Name *">
                                                 </div>
@@ -165,13 +165,13 @@ require_once('_include.php');
                                         </div><!-- / col-md-12 -->
                                         
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFNumber1" name="phone" class="form-control input-"phonel" placeholder="Phone Number *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFZCode1" name="zip" class="form-control input-zip" placeholder="Zip Code">
                                                 </div>
@@ -211,12 +211,12 @@ require_once('_include.php');
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-8 -->
@@ -230,13 +230,13 @@ require_once('_include.php');
                                         <div class="NHBlk1ConsultingForm1 NHFloting101">
                                             <form action="/bootstrap/bootstrap_form_process.php" role="form" method="POST" accept-charset="UTF-8"enctype="application/x-www-form-urlencoded" >
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFname1" name="firstname" class="form-control input-firstname" placeholder="First Name *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFLname1" name="lastname" class="form-control input-lastname" placeholder="Last Name *">
                                                 </div>
@@ -244,13 +244,13 @@ require_once('_include.php');
                                         </div><!-- / col-md-12 -->
                                         
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFNumber1" name="phone" class="form-control input-"phonel" placeholder="Phone Number *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFZCode1" name="zip" class="form-control input-zip" placeholder="Zip Code">
                                                 </div>
@@ -284,7 +284,7 @@ require_once('_include.php');
                                         <div class="NHMessageBlk1">
                                             <p>I wasn’t sure about getting my nose done until I saw my visualizer and saw what I could look like. I was so excited, I saw a doctor immediately!</p>
                                             <span class="NHMText1b">Claudia M.</span>
-                                        </div><!-- / NHMessageBlk1 -->
+                                        </div><!-- / NHMessageBlk1 -->                                        
                                         
                                         <div class="NHProfileBlk2a">
                                             &nbsp;
@@ -294,12 +294,12 @@ require_once('_include.php');
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-4 -->
@@ -319,13 +319,13 @@ require_once('_include.php');
                                         <div class="NHBlk1ConsultingForm1 NHFloting101">
                                             <form action="/bootstrap/bootstrap_form_process.php" role="form" method="POST" accept-charset="UTF-8"enctype="application/x-www-form-urlencoded" >
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFname1" name="firstname" class="form-control input-firstname" placeholder="First Name *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFLname1" name="lastname" class="form-control input-lastname" placeholder="Last Name *">
                                                 </div>
@@ -333,13 +333,13 @@ require_once('_include.php');
                                         </div><!-- / col-md-12 -->
                                         
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFNumber1" name="phone" class="form-control input-"phonel" placeholder="Phone Number *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFZCode1" name="zip" class="form-control input-zip" placeholder="Zip Code">
                                                 </div>
@@ -359,7 +359,6 @@ require_once('_include.php');
                                         </div><!-- / NHBlk1ConsultingForm1 -->
                                     </div><!-- / col-md-4 -->
                                 </div><!-- / col-md-12 // NewHomeBlk1 -->
-                                
                             </div><!-- / row -->
                         </div><!-- / container -->
                     </div><!-- / item -->
@@ -379,12 +378,12 @@ require_once('_include.php');
                                             <h5>Featured on:</h5>
                                             
                                             <ul class="list-inline">
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.png"></a></li>
-                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.png"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-1.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-2.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-3.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-4.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-5.svg"></a></li>
+                                                <li><a href=""><img src="img/Edited-Portion/featured/featured-6.svg"></a></li>
                                             </ul>
                                         </div><!-- / NHBlk1Featured1 -->
                                     </div><!-- / col-md-5 -->
@@ -398,13 +397,13 @@ require_once('_include.php');
                                         <div class="NHBlk1ConsultingForm1 NHFloting101">
                                             <form action="/bootstrap/bootstrap_form_process.php" role="form" method="POST" accept-charset="UTF-8"enctype="application/x-www-form-urlencoded" >
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFname1" name="firstname" class="form-control input-firstname" placeholder="First Name *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFLname1" name="lastname" class="form-control input-lastname" placeholder="Last Name *">
                                                 </div>
@@ -412,13 +411,13 @@ require_once('_include.php');
                                         </div><!-- / col-md-12 -->
                                         
                                         <div class="col-md-12 col-sm-12 col_zero">
-                                        	<div class="col-md-6 col-sm-6 LeftGap1a">
+                                        	<div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFFNumber1" name="phone" class="form-control input-"phonel" placeholder="Phone Number *">
                                                 </div>
                                             </div><!-- / col-md-12 -->
                                             
-                                            <div class="col-md-6 col-sm-6 RightGap1a">
+                                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
                                             	<div class="form-group">
                                             		<input type="text" id="CFZCode1" name="zip" class="form-control input-zip" placeholder="Zip Code">
                                                 </div>
@@ -459,10 +458,62 @@ require_once('_include.php');
         <section id="beforeandafter" class="wow fadeIn animated dark-color hero1 SectionGapWandS1a">
             <div class="container text-center">
                 <div class="row text-center" id="BeforeAndAfterBlk1">
+                	
+                    <div class="col-md-12 col-sm-12 NHManageBlk103">
+                    	<div class="NHBlk1Consulting1">
+                            <h1>Free Consultation</h1>
+                            <p>Fill out the form for more info or to schedule a free consultation with an aesthetic expert near you!</p>
+                        </div><!-- / NHBlk1Consulting1 -->
+                        
+                        <div class="NHBlk1ConsultingForm1 NHFloting101">
+                            <form action="/bootstrap/bootstrap_form_process.php" role="form" method="POST" accept-charset="UTF-8"enctype="application/x-www-form-urlencoded" >
+                        <div class="col-md-12 col-sm-12 col_zero">
+                            <div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
+                                <div class="form-group">
+                                    <input type="text" id="CFFname1" name="firstname" class="form-control input-firstname" placeholder="First Name *">
+                                </div>
+                            </div><!-- / col-md-12 -->
+                            
+                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
+                                <div class="form-group">
+                                    <input type="text" id="CFLname1" name="lastname" class="form-control input-lastname" placeholder="Last Name *">
+                                </div>
+                            </div><!-- / col-md-12 -->
+                        </div><!-- / col-md-12 -->
+                        
+                        <div class="col-md-12 col-sm-12 col_zero">
+                            <div class="col-md-6 col-sm-6 col-xs-6 LeftGap1a">
+                                <div class="form-group">
+                                    <input type="text" id="CFFNumber1" name="phone" class="form-control input-"phonel" placeholder="Phone Number *">
+                                </div>
+                            </div><!-- / col-md-12 -->
+                            
+                            <div class="col-md-6 col-sm-6 col-xs-6 RightGap1a">
+                                <div class="form-group">
+                                    <input type="text" id="CFZCode1" name="zip" class="form-control input-zip" placeholder="Zip Code">
+                                </div>
+                            </div><!-- / col-md-12 -->
+                        </div><!-- / col-md-12 -->
+                        
+                        <div class="col-md-12 col-sm-12 col_zero">
+                            <div class="form-group">
+                                <input type="email" id="CFEMail1" name="email" class="form-control input-email" placeholder="Email Address *">
+                            </div>
+                        </div><!-- / col-md-12 -->
+                        
+                        <div class="col-md-12 col-sm-12 col_zero">
+                            <input class="btn btn-default btn-block" type="submit"  name="submit" value="request free consultation">
+                        </div><!-- / col-md-12 -->
+                    </form>
+                        </div><!-- / NHBlk1ConsultingForm1 -->
+                    </div><!-- / col-md-12 -->
+                    
+                    
+                    
                 	<div class="col-md-12 col-sm-12 common-text-blk1">
                     	<h1 class="mb50">Before & After Visualizer</h1>
-                        <p>Have you ever wondered what you could look like with a more youthful, refreshed appearance? To see the remarkable possibilities, use New Look Now’s before & after visualizer to get a sneak peek of what you could look like after a facial rejuvenation.’</p>
-                        <p>After you make an appointment, you’ll receive an email and all it takes is 4 easy steps:</p>
+                        <p>Have you ever wondered what you could look like after a surgical or non-surgical treatment? To see the remarkable possibilities, use New Look Now’s before & after visualizer to get a sneak peek of what you could look like.</p>
+                        <p>All it takes is 4 easy steps:</p>
                     </div><!-- / col-md-12 -->
                 </div><!-- / row -->
                 
@@ -477,7 +528,7 @@ require_once('_include.php');
                             </div>
                         </div>
                         <h4>1</h4>
-                        <p>Select your treatment option</p>
+                        <p>Select your treatment</p>
                     </div><!-- / col-md-3 -->
                     
                     <div class="col-md-3 col-sm-3 mb-25" id="BandASingleBlk1">
@@ -499,7 +550,7 @@ require_once('_include.php');
                         </div>
                     	<div class="page-icon-top">
                         	<div class="pit-img-width1">
-                            	<i class="fa fa-file-text-o"></i>
+                            	<i class="fa fa-file-text"></i>
                             </div>
                         </div>
                         <h4>3</h4>
@@ -509,11 +560,11 @@ require_once('_include.php');
                     <div class="col-md-3 col-sm-3 mb-25">
                     	<div class="page-icon-top">
                         	<div class="pit-img-width1">
-                            	<i class="fa fa-stethoscope"></i>
+                            	<i class="fa fa-envelope"></i>
                             </div>
                         </div>
                         <h4>4</h4>
-                        <p>View your simulation at your appointment</p>
+                        <p>Receive your visualizer via email</p>
                     </div><!-- / col-md-3 -->
                 </div><!-- / row -->
             </div><!-- / container -->
@@ -656,7 +707,7 @@ require_once('_include.php');
                 
                 <div class="row text-center" id="GiftBlk3">
                 	<div class="col-md-12 col-sm-12 common-text-blk1">
-                    	<h1 class="mb25">Convenient locations through out Southern California</h1>
+                    	<h1 class="mb25">Convenient locations throughout Southern California</h1>
                         <p>Our aesthetic professionals are conveniently located throughout Southern California. We will book an appointment that is closest to you.</p>
                     </div><!-- / col-md-12 -->
                 </div><!-- / row -->
@@ -714,7 +765,7 @@ require_once('_include.php');
                 <div class="row" id="providersBlk2">
                 	<div class="col-md-4 col-sm-4 mb-25">
                     	<div class="page-icon-top">
-                        	<img src="img/Edited-Portion/icons/mobile-icon-1.png" alt="image">
+                        	<img src="img/Edited-Portion/icons/mobile-icon-1.svg" alt="image">
                         </div>
                         <h4>Tell Us About You</h4>
                         <p>Answer a few easy questions over the phone.</p>
@@ -722,7 +773,7 @@ require_once('_include.php');
                     
                     <div class="col-md-4 col-sm-4 mb-25">
                     	<div class="page-icon-top">
-                        	<img src="img/Edited-Portion/icons/profile-icon-1.png" alt="image">
+                        	<img src="img/Edited-Portion/icons/profile-icon-1.svg" alt="image">
                         </div>
                         <h4>Get a Referral</h4>
                         <p>Find out which physician is right for you.</p>
@@ -730,7 +781,7 @@ require_once('_include.php');
                     
                     <div class="col-md-4 col-sm-4 mb-25">
                     	<div class="page-icon-top">
-                        	<img src="img/Edited-Portion/icons/calendar-icon-1.png" alt="image">
+                        	<img src="img/Edited-Portion/icons/calendar-icon-1.svg" alt="image">
                         </div>
                         <h4>Make an Appointment</h4>
                         <p>Instantly schedule a visit with your new aesthetic provider.</p>

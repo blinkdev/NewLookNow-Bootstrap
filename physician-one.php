@@ -53,7 +53,7 @@ require_once('_include.php');
                 <!-- logo -->
                 <div class="logo">
                     <a href="index.php">
-                        <img src="img/Edited-Portion/logo-1.png" class="l-black">
+                        <img src="img/Edited-Portion/logo-1a.svg" class="l-black">
                         <!--<img src="img/Edited Portion/logo-1.png" class="l-white">
                         <img src="img/Edited Portion/logo-1.png" class="l-color">-->
                     </a>
@@ -188,7 +188,7 @@ require_once('_include.php');
         
         
         
-        <!-- END CONTENT ---------------------------------------------------------------------------->
+        <!-- END CONTENT -->
 
         <!-- FOOTER -->
         <footer class="footer SectionGapWandS2 dark-color" id="footer">

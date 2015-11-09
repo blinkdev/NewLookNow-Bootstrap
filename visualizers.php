@@ -1,6 +1,6 @@
 <?php
 
-require_once('_include.php');
+//require_once('_include.php');
 
 ?>
 <!DOCTYPE html>
@@ -53,7 +53,7 @@ require_once('_include.php');
                 <!-- logo -->
                 <div class="logo">
                     <a href="index.php">
-                        <img src="img/Edited-Portion/logo-1.png" class="l-black">
+                        <img src="img/Edited-Portion/logo-1a.svg" class="l-black">
                         <!--<img src="img/Edited Portion/logo-1.png" class="l-white">
                         <img src="img/Edited Portion/logo-1.png" class="l-color">-->
                     </a>
@@ -158,7 +158,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/muffin-top.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>scoolsculpting</p>
                                         </div>
                                     </div>
                                     
@@ -185,11 +185,11 @@ require_once('_include.php');
                         
                         <div class="nf-item face non-surgical brands">
                             <div class="item-box">
-                                <a href="_action.php?concern_select=440&treatment=surgical&sponsor=3&cost=0">
+                                <a href="_action.php?concern_select=440&treatment=non-surgical&sponsor=3&cost=0">
                                     <img alt="1" src="img/Edited-Portion/treatments/thin-lips.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>dermal fillers</p>
                                         </div>
                                     </div>
                                     
@@ -220,7 +220,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/nose-shape.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>rhinoplasty</p>
                                         </div>
                                     </div>
                                     
@@ -251,7 +251,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/abdoSurgery.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>tummy tuck</p>
                                         </div>
                                     </div>
                                     
@@ -278,7 +278,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/small-boobs.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>breast augmentation</p>
                                         </div>
                                     </div>
                                     
@@ -305,7 +305,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/tired-eyes.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>blepharoplasty</p>
                                         </div>
                                     </div>
                                     
@@ -332,7 +332,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/hair-loss.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>hair transplant</p>
                                         </div>
                                     </div>
                                     
@@ -359,7 +359,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/sagging-neck-2.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>neck lift</p>
                                         </div>
                                     </div>
                                     
@@ -387,7 +387,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/aged-apperance-1.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>surgical facial rejuvenation</p>
                                         </div>
                                     </div>
                                     
@@ -416,7 +416,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/aged-apperance-2.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>non-surgical facial rejuvenation</p>
                                         </div>
                                     </div>
                                     
@@ -445,7 +445,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/skin-texture.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>skin care treatments</p>
                                         </div>
                                     </div>
                                     
@@ -473,7 +473,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/crooked-teeth.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>invisalign</p>
                                         </div>
                                     </div>
                                     
@@ -501,12 +501,12 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/scarce-lashes.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>Latisse</p>
                                         </div>
                                     </div>
                                     
                                     <div class="item-info1">
-                                    	<p>short, scarce lashes</p>
+                                    	<p>short, sparse lashes</p>
                                     </div>
                                     
                                     <div class="item-info1a">
@@ -523,13 +523,13 @@ require_once('_include.php');
                             </div>
                         </div><!-- / nf-item -->
                         
-                        <div class="nf-item face body non-surgical">
+                        <div class="nf-item face body non-surgical skin">
                             <div class="item-box">
                                 <a href="_action.php?concern_select=556&treatment=non_surgical&cost=20">
                                     <img alt="1" src="img/Edited-Portion/treatments/skinTome.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>laser treatments</p>
                                         </div>
                                     </div>
                                     
@@ -557,7 +557,7 @@ require_once('_include.php');
                                     <img alt="1" src="img/Edited-Portion/treatments/stubborn-fat.jpg" class="item-container">
                                     <div class="item-mask">
                                         <div class="item-caption">
-                                            <p>skin tightening</p>
+                                            <p>liposuction</p>
                                         </div>
                                     </div>
                                     
